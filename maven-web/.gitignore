@@ -1,0 +1,9 @@
+/target/
+.settings/
+*.jar
+*.war
+bin
+*.class
+.metadata
+.settings/**
+target/**
